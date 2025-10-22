@@ -1,5 +1,3 @@
-Maximus PC Performance
-
 O Maximus PC Performance é um utilitário desktop desenvolvido em Python para otimização e monitoramento de desempenho do sistema operacional.
 O projeto visa demonstrar boas práticas de programação, modularização e integração com recursos nativos do sistema, mantendo uma interface limpa e funcional.
 
