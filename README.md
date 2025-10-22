@@ -29,3 +29,7 @@ psutil / os / shutil (controle e manipulação do sistema)
 
 Objetivo
 Fornecer uma ferramenta leve e didática para estudo e aprimoramento de técnicas de otimização de sistemas em Python, além de servir como base para projetos de monitoramento e manutenção de PCs.
+
+Para usar o aplicativo como user entrar em contato solicitando bergdev.adm@gmail.com ou adquirir 
+produto: https://app.hotmart.com/products/manage/6197770
+
