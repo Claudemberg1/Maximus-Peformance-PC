@@ -1,0 +1,1 @@
+C:\Users\Bebeg\AppData\Local\Programs\Python\Python313\Scripts\pyinstaller.exe --onefile --windowed --icon=icon.ico --clean --hidden-import=requests --hidden-import=certifi --hidden-import=charset_normalizer --hidden-import=idna --hidden-import=urllib3 --add-data "loading.gif;." --add-data "Maximus_PC_Performance_Manual.pdf;." --distpath build_dist otimizador.py

@@ -1,21 +1,23 @@
-MIT License
+Copyright (c) 2026 Berg Dev - Todos os Direitos Reservados.
 
-Copyright (c) 2025 Claudemberg Silva
+PROJETO: Maximus-Peformance-PC
+AUTOR: Berg Dev
+PROPRIEDADE: Berg Dev 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. TERMOS DE USO
+Este software e todos os seus arquivos (incluindo código-fonte, ativos visuais, artes, interface, lógica de jogo/sistema e design) são de propriedade exclusiva e intelectual de Berg Dev. A disponibilização pública deste repositório no GitHub visa exclusivamente a exibição de portfólio técnico e não concede, sob hipótese alguma, direitos de software livre, open-source ou domínio público.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. RESTRIÇÕES E PROIBIÇÕES
+Ao visualizar, clonar, baixar ou realizar "fork" deste repositório, você aceita integralmente que:
+   a) É estritamente PROIBIDA a redistribuição, venda, sublicenciamento ou publicação deste código (original ou modificado) em qualquer plataforma comercial, incluindo, mas não se limitando a: Google Play Store, Steam, Apple App Store, sites de jogos ou servidores de hospedagem.
+   b) É proibida a criação de trabalhos derivados, "clones", "reskins" ou versões modificadas do projeto para fins comerciais ou exibição pública.
+   c) É PROIBIDA a utilização deste código para treinamento de modelos de Inteligência Artificial ou alimentação de ferramentas de geração de código sem autorização prévia.
+   d) O uso do código é permitido exclusivamente para fins de ESTUDO PESSOAL e ANÁLISE TÉCNICA privada.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. PROPRIEDADE INTELECTUAL E MARCA
+Nenhuma parte deste projeto, incluindo o nome "Maximus-Peformance-PC / Berg Dev", logotipos, sons ou mecânicas específicas, pode ser utilizada sem autorização formal por escrito do autor. A remoção deste aviso de copyright dos arquivos originais é uma violação grave de direitos autorais.
+
+4. MEDIDAS LEGAIS
+Qualquer violação destes termos identificada em lojas de aplicativos ou servidores web resultará em pedidos imediatos de remoção (DMCA Takedown) e estará sujeita às sanções civis e criminais previstas na Lei de Direitos Autorais e Propriedade Intelectual.
+
+Para solicitações de licença comercial, parcerias ou autorizações, entre em contato com Berg Dev através do perfil oficial no GitHub.

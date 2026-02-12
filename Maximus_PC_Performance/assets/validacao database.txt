@@ -1,0 +1,1 @@
+As colunas status com nao_usada e id_pc com null para cada nova chave que você adicionar.
